@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/inicio.unity
+    guid: 87d9c4f1cfb7bf94b8521eecc7349985
+  - enabled: 1
+    path: Assets/Scenes/CallOfDucks.unity
+    guid: 46e20a0fd552b9c47b843e5b727ecda0
+  m_configObjects: {}
